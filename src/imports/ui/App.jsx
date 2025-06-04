@@ -1,5 +1,5 @@
 import React from 'react';
-import { MainLayout } from '../layouts/MainLayout.jsx'; // Adjusted path
+import { MainLayout } from './layouts/MainLayout.jsx'; // Corrected path
 
 // The original Hello and Info components can be removed if MainLayout is now the primary structure
 // import { Hello } from './Hello.jsx';
